@@ -43,7 +43,7 @@ menu:
       url: /
       weight: 1
     - name: About
-      pre: <span data-feather='home'></span>
+      pre: <span data-feather='user'></span>
       url: /about/
       weight: 2 
     - name: Posts
@@ -59,11 +59,13 @@ menu:
       url: /tags/
       weight: 5
 
-
 markup:
   tableOfContents:
     endLevel: 4
     ordered: no
     startLevel: 1
+  goldmark:
+    renderer:
+      unsafe: true  
 minify:
   minifyOutput: yes
