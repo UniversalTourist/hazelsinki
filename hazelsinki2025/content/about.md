@@ -4,6 +4,8 @@ showToc: false
 ---
 Hey there! 👋 I'm **Hazel** — a data analyst by day, swing dancer by night 💃
 
+I am originally from Istanbul and I’ve been living in Helsinki for more than 6 years now. I absolutely love it here! 🇫🇮 I'm fluent in Finnish at a B1 level (I even passed the YKI test!). It’s been a rewarding journey embracing both the culture and the language.
+
 With over 8 years in the **gaming industry**, I’ve worked at studios like Seriously, Rovio, and Supercell to level up their game — literally. I specialize in:
 - 🎮 Level progression and player behavior analysis  
 - 📊 Designing insightful dashboards and A/B tests  
@@ -19,7 +21,7 @@ I love turning messy data into clear stories — using **SQL**, **R**, and **Shi
   <div style="flex: 2; min-width: 250px;">
     <h2></h2>
     <p>Outside the data world, I wear a few other hats:<br>
-   💃 I teach Lindy Hop at Black Peppers in Helsinki — it’s all about rhythm, joy, and connection.<br>
+   💃 I teach Lindy Hop at Black Pepper Swing in Helsinki — it’s all about rhythm, joy, and connection.<br>
    💪 I keep moving with body training to stay grounded and strong.<br>
    🎶 And when things slow down, I strum a little ukulele — music helps me recharge and stay playful.</p>
   </div>
@@ -43,7 +45,7 @@ Before that, I was the founder and organizer of R-Ladies Istanbul, which I led f
 </div>
 
 
-📬 Always happy to connect — whether it’s about data, dancing, teaching, or tunes.  
+📬 Always happy to connect — whether it’s about games, data analytics, jazz dancing, or tunes.  
 **Looking forward to hearing from you.**
 
 Cheers,  
