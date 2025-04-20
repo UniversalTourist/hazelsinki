@@ -1,5 +1,5 @@
 ---
-date: "2025-03-01T17:55:28+08:00"
+date: "2025-01-01T17:55:28+08:00"
 description: How to use Last.fm data to create Shiny App
 showTableOfContents: true
 tags:
@@ -13,14 +13,14 @@ weight: 25
 
 
 
-As a long-time Last.fm user (about 15 years) and a data nerd, I’ve always been curious about my listening patterns. So I decided to build a Shiny App that visualizes my Last.fm streaming history — and it turned out to be both fun and insightful!
+As a long-time **Last.fm** user (about 15 years) and a data nerd, I’ve always been curious about my listening patterns. I used to look at my data by downloading a CSV and creating some chart via **tidyverse** functions. This time I decided to build a Shiny App that visualizes my Last.fm streaming history — and it turned out to be both fun and insightful!
 
 
   <div style="flex: 1; min-width: 250px;">
     <img src="/images/shiny1.jpg" alt="Dancing" style="width: 100%; border-radius: 10px;">
   </div>
 
-
+## What the App Does 
 My app provides an interactive dashboard that helps me explore my music habits over time. Here’s what it includes:
 
 **Date Range Filter** – Narrow down the data to a specific period. 
@@ -38,11 +38,26 @@ My app provides an interactive dashboard that helps me explore my music habits o
 
 The dashboard updates dynamically as you adjust the date range, and the favorite artist/song tiles make it easy to get quick insights.
 
+### How I build it
+
+Basically I used an API to get my Last.fm data and then I used R + Shiny to create the dashboard.
+
+I used Shinyapps.io to deploy which was very easy. 
+
 ### What I Learned
 - Time-based data can tell surprisingly rich stories — I noticed I listen to music most often in the early evenings, with a dip on weekends.
 
 - My music taste changed in years of course but my love for *Arctic Monkeys* stayed the same. 
 
-- Building a Shiny app is a great way to practice not only R programming but also data storytelling and UI design.
+- Building a Shiny app is a great way to practice not only R programming but also data storytelling and UI design. In this particular example I showed everything in one page layout but it is doable to expand more and breathing scrollable page. 
+
+- Shinyapps.io is very easy to deploy. I had my app on my local (I used Github for version control) and by using this two lines of code it was ready to go: 
+
+
+``` r
+library(rsconnect)
+rsconnect::deployApp('~/Documents/projects/myshinyapp')
+```
+
 
 - Debugging dynamic UI elements takes patience... but it’s worth it.
