@@ -1,0 +1,20 @@
+---
+title: R-Ladies Helsinki
+type: page
+---
+
+
+
+
+## R-Ladies Organisation
+R-Ladies is a great organisation where people come together, learn and collaborate with each other while being in a safe space. 
+
+You can read the mission of the organisation[here](https://rladies.org/about-us/mission/). 
+
+## R-Ladies Helsinki
+
+I was the organiser of R-Ladies Istanbul for about 3 years. After I moved to Helsinki I met the lovely organisers of Helsinki chapter and after sometime I took over the chapter. I am very happy to part of this organisation and spread the love and joy of creating things together. 
+
+You can follow Helsinki events from [Meetup.com page](https://www.meetup.com/rladies-helsinki/). 
+
+We have run couple of events troughout the years and starting to bring the joy of learning back to Helsinki very soon. Stay tuned! 
