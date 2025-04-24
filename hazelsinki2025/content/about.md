@@ -6,7 +6,7 @@ Hey there! 👋 I'm **Hazel** — a data analyst by day, swing dancer by night �
 
 I am originally from Istanbul and I’ve been living in Helsinki for more than 6 years now. I absolutely love it here! 🇫🇮 I'm fluent in Finnish at a B1 level (I even passed the YKI test!). It’s been a rewarding journey embracing both the culture and the language.
 
-With over 8 years in the **gaming industry**, I’ve worked at studios like Seriously, Rovio, and Supercell to level up their game — literally. I specialize in:
+I’ve spent over 8 years in the gaming industry, working with studios like Seriously, Rovio, and Supercell — helping out on projects that made games a bit more fun and players a bit more hooked.I specialize in:
 - 🎮 Level progression and player behavior analysis  
 - 📊 Designing insightful dashboards and A/B tests  
 - 🧩 Collaborating with cross-functional teams to uncover meaningful game insights

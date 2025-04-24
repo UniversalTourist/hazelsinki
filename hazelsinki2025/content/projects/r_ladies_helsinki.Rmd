@@ -8,12 +8,12 @@ type: page
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R-Ladies Organisation
+## Organisation
 R-Ladies is a great organisation where people come together, learn and collaborate with each other while being in a safe space. 
 
-You can read the mission of the organisation[here](https://rladies.org/about-us/mission/). 
+You can read the mission of the organisation [here](https://rladies.org/about-us/mission/). 
 
-## R-Ladies Helsinki
+## Helsinki Chapter
 
 I was the organiser of R-Ladies Istanbul for about 3 years. After I moved to Helsinki I met the lovely organisers of Helsinki chapter and after sometime I took over the chapter. I am very happy to part of this organisation and spread the love and joy of creating things together. 
 
