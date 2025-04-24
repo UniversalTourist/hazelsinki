@@ -8,7 +8,7 @@ theme: gokarna-hugo
 title: Hazelsinki
 params:
   avatarAltText: avatar
-  avatarSize: size-s
+  avatarSize: size-m
   avatarURL: /images/hazel_200px_03.jpg
   customHeadHTML: "    <!-- KaTeX -->\n    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css\"
     integrity=\"sha384-Xi8rHCmBmhbuyyhbI88391ZKP2dmfnOl4rT9ZfRI7mLTdk1wblIUnrIq35nqwEvC\"
@@ -22,12 +22,9 @@ params:
     [\n            {left: '$$', right: '$$', display: true},\n            {left: '$',
     right: '$', display: false},\n          ],\n          // • rendering keys, e.g.:\n
     \         throwOnError : false\n        });\n      });\n    </script>\n  "
-  description: Color my life with chaos of trouble
-  footer: Where am I?
+  description: Data Analyst by day, Lindy Hop dancer by night
+  footer:
   metaKeywords:
-    - blog
-    - gokarna
-    - hugo
   showBackToTopButton: yes
   socialIcons:
     - name: linkedin
