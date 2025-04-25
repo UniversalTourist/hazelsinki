@@ -1,12 +1,14 @@
 ---
-date: "2024-11-05T17:55:28+08:00"
-title: Game Analytics 101
-tags: 
+date: "2024-02-01T17:55:28+08:00"
+description: Why it is still relevant in the time of AI?
+showTableOfContents: true
+tags:
 - Mobile Games
 - Game Analytics
 - Player Behaviour
+title: Game Analytics 101
 type: post
-description: Why it is still relevant in the time of AI
+weight: 25
 ---
 
 There are many tools available now that can help your team to make the product ready faster than ever. Although the key metrics your team needs to focus are still the same. AI can help you generate content, personalize experiences, and even predict user behavior. But if you don’t understand the **key metrics** — your DAU, retention, ARPU, session lengths, conversion funnels — you’re basically flying blind.
