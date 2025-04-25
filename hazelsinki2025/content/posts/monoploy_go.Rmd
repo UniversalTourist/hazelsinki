@@ -5,6 +5,7 @@ showTableOfContents: true
 tags:
 - Mobile Games
 - Game Analytics
+- Player Behaviour
 title: Falling Love in Nostalgia with Monopoly Go
 type: post
 weight: 25
@@ -14,14 +15,14 @@ weight: 25
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Monopoly Go has become a big hit since it has launched in 2023. 
+Monopoly Go has become a big hit since it has launched in 2023. As someone who works in mobile game analytics, I find it really cool how the game balances engagement mechanics with monetization.
 
-It definitely brings good memories to many people from childhood where they casually make their friends to bankrupt or make them pay higher rents for the cool places they have building. Honestly for me it was about all of the above and also good laughter. 
+It definitely brings good memories to many people from childhood where they casually bankrupting friends or make them pay higher rents for the cool properties they build. Honestly for me it was about all of the above and also good laughter. 
 
 ## Lively Live-Ops
-This game brings the same feelings and it is on my pocket now. I have been playing this for quite sometime and I should say the LivOps of this game is awesome. 
+This game brings the same feelings and it is on my pocket now. I have been playing this for quite sometime and I should say the LiveOps of this game is awesome. 
 
-I am not a fan of events that last long like a month. In Monopoly Go there are many short engaging events to make me play as much as I can during my limited session time. They are not necessarily new type of event, I keep rolling my dice as usual but I gain a lot more.  
+I am not a fan of events that last very long ( like a month). In Monopoly Go there are many short engaging events to make me play as much as I can during my limited session time. They are not necessarily new type of events, I keep rolling my dice as usual (😎 but I gain a lot more.)  
 
 <div style="display: flex; gap: 10px; justify-content: space-around; align-items: center;">
   <img src="/images/SS2.PNG" width="45%">
@@ -31,7 +32,7 @@ I am not a fan of events that last long like a month. In Monopoly Go there are m
 
 ## Collaboration, Completion and Competition
 
-This game has everything for almost every type of persona that you can see in a casual mobile game. 
+This game has everything for almost every type of persona that you can see in a casual mobile game. As a data analyst, I can’t help but think about how these personas translate into behavioral cohorts.
 
 Do you need to be spender in this game to enjoy? Am I a spender in Monopoly Go! after all this time? No, I am not! I believe the reason to that 
 
@@ -42,7 +43,7 @@ b- I am a *Completionist* in this game, not a *Rivalry-driven* player
 c- I love *collaboration* and the rewards in the collaborative events are massive. I can do as much with the current free-gain economy during my session. 
 
 
-Well maybe I am not the audience they expect to earn money from. I love the new boards, I love the tiny people hanging around and waving me from the board. Do I care about stickers or trading them? Not really! 
+Well maybe I am not the audience they expect to earn money from. I love the new boards, I love the tiny people hanging around and waving me from the board. Do I care about stickers or trading them? Not really! Although I’d love to dive into data around sticker event completion/exchange rates by player type. 
 
 As I mentioned that my "game persona" is "Completionist" and I love to see "Net Worth" is increasing and I get satisfying rewards. 
 <div style="display: flex; gap: 10px; justify-content: space-around; align-items: center;">
@@ -51,14 +52,17 @@ As I mentioned that my "game persona" is "Completionist" and I love to see "Net 
 </div>
 
 
+Do more sessions or longer sessions really translate to better monetization in Monopoly Go? This is what we see in many casual/puzzle games, higher level of engagement lead to better monetization. I wonder if this is applicable in Monopoly Go. I wonder how the session length and frequency look different with spenders and non-spenders. Moreover how is liveops driving the monetisation for different kind of personas in the game. (So many questions, so little SQL 😄😎)
 
-Do more sessions or longer sessions have an impact on monetization? This is what we see in many casual/puzzle games, higher level of engagement lead to better monetization. I wonder if this is applicable in Monopoly Go. I wonder how big of session time and session count difference with spenders and non-spenders. 
-
-## Slow Animations but ... on purpose? 
-What I don't like about the game is the slowness of animations. I can't seem to enjoy the rewards or the wins as much as I could due to not flowing but delayed animations. (I wonder if they get that kind of feedback ever although I play the game in my relatively new iPhone). I guess colors and particles have time to dazzle — enhancing the “dopamine hit” that reinforces the reward loop. I am feeling rewarded but also considering the amount of the gains sometimes it feels waste of time. 
+## Sloooow Animations but ... on purpose? 
+The one thing I am not a fan of is the slowness of animations. I can't seem to enjoy the rewards or the wins as much as I could due to not flowing but delayed animations. (I wonder if they get that kind of feedback ever although I play the game in my relatively new iPhone). I guess colors and particles have time to dazzle — enhancing the “dopamine hit” that reinforces the reward loop. I am feeling rewarded but also considering the amount of the gains sometimes it feels waste of time. 
 
 ## More Nostalgia with Star Wars Album
 
 Now they are bringing Star Wars to their game where you can have new sticker album, themed mini games and exclusive cosmetics. Am I Start Wars fan? I wouldn't say yes although I am excited to see how this will effect their monetization! 
 
 ![](/images/monopoly_go.jpg)
+
+
+Overall, I’m genuinely enjoying the game — (both as a player and as someone who studies player behavior for a living). Monopoly Go hits that sweet spot of nostalgia and modern engagement design.
+And while I’m not spending (yet 😅), I’m definitely giving them the one thing every game dev wants: my time.

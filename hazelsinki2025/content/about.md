@@ -37,8 +37,7 @@ I love turning messy data into clear stories — using **SQL**, **R**, and **Shi
   </div>
 
   <div style="flex: 2; min-width: 250px;">
-    <p>🎉I’m also deeply involved in building inclusive tech spaces.</p>
-    <p>I organize events for R-Ladies Helsinki, a local community focused on supporting gender diversity in R and data science.  
+    <p>I’m also deeply involved in building inclusive tech spaces. I organize events for R-Ladies Helsinki, a local community focused on supporting gender diversity in R and data science.  
 Before that, I was the founder and organizer of R-Ladies Istanbul, which I led for three amazing years.</p>
   </div>
 

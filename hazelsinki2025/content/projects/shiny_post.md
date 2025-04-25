@@ -1,18 +1,9 @@
 ---
-date: "2024-12-01T17:55:28+08:00"
-description: How to use Last.fm data to create Shiny App
-showTableOfContents: true
-tags:
-- R
-- Shiny
 title: Building a Shiny App to Visualise My Last.fm Data
 type: post
-weight: 25
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 
 As a long-time **Last.fm** user (about 15 years) and a data nerd, I’ve always been curious about my listening patterns. I used to look at my data by downloading a CSV and creating some chart via **tidyverse** functions. This time I decided to build a Shiny App that visualizes my Last.fm streaming history — and it turned out to be both fun and insightful!
@@ -55,7 +46,8 @@ I used Shinyapps.io to deploy which was very easy.
 
 - Shinyapps.io is very easy to deploy. I had my app on my local (I used Github for version control) and by using this two lines of code it was ready to go: 
 
-```{r eval=FALSE}
+
+``` r
 library(rsconnect)
 rsconnect::deployApp('~/Documents/projects/myshinyapp')
 ```
