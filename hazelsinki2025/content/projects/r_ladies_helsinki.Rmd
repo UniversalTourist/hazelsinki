@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Organisation
-R-Ladies is a great organisation where people come together, learn and collaborate with each other while being in a safe space. 
+[R-Ladies](https://rladies.org) is a great organisation where people come together, learn and collaborate with each other while being in a safe space. 
 
 You can read the mission of the organisation [here](https://rladies.org/about-us/mission/). 
 
@@ -19,4 +19,4 @@ I was the organiser of R-Ladies Istanbul for about 3 years. After I moved to Hel
 
 You can follow Helsinki events from [Meetup.com page](https://www.meetup.com/rladies-helsinki/). 
 
-We have run couple of events troughout the years and starting to bring the joy of learning back to Helsinki very soon. Stay tuned! 
+We have run couple of events throughout the years and starting to bring the joy of learning back to Helsinki very soon. Stay tuned! 
