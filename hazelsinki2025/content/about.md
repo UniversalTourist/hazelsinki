@@ -50,20 +50,29 @@ Before that, I was the founder and organizer of R-Ladies Istanbul, which I led f
 Cheers,  
 Hazel
 
-<p style="font-size: 1.0em;">
-<a href="https://www.instagram.com/hazelsinki/" target="_blank" style="margin-right: 15px; text-decoration: none;">
-  <span data-feather="instagram"></span>
-</a>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/hazzelkavili/" 
+     class="social-icon" 
+     aria-label="linkedin" 
+     style="text-decoration: none;">
+    <i data-feather="linkedin"></i>
+  </a>
+  
+  <a href="https://www.instagram.com/hazelsinki/" 
+     class="social-icon" 
+     aria-label="instagram" 
+     style="text-decoration: none;">
+    <i data-feather="instagram"></i>
+  </a>
 
-<a href="https://www.linkedin.com/in/hazzelkavili/" target="_blank" style="margin-right: 15px; text-decoration: none;">
-  <span data-feather="linkedin"></span>
-</a>
+  <a href="mailto:hazzelkavili@gmail.com" 
+     class="social-icon" 
+     aria-label="email" 
+     style="text-decoration: none;">
+    <i data-feather="mail"></i>
+  </a>
 
-<a href="mailto:hazzelkavili@gmail.com" style="margin-right: 15px; text-decoration: none;">
-  <span data-feather="mail"></span>
-</a>
-
-</p>
+</div>
 
 <script>
   if (window.feather) {
