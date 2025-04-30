@@ -49,3 +49,24 @@ Before that, I was the founder and organizer of R-Ladies Istanbul, which I led f
 
 Cheers,  
 Hazel
+
+<p style="font-size: 1.0em;">
+<a href="https://www.instagram.com/hazelsinki/" target="_blank" style="margin-right: 15px; text-decoration: none;">
+  <span data-feather="instagram"></span>
+</a>
+
+<a href="https://www.linkedin.com/in/hazzelkavili/" target="_blank" style="margin-right: 15px; text-decoration: none;">
+  <span data-feather="linkedin"></span>
+</a>
+
+<a href="mailto:hazzelkavili@gmail.com" style="margin-right: 15px; text-decoration: none;">
+  <span data-feather="mail"></span>
+</a>
+
+</p>
+
+<script>
+  if (window.feather) {
+    feather.replace();
+  }
+</script>

@@ -1,13 +1,12 @@
 ---
 title: Building a Shiny App to Visualise My Last.fm Data
-type: post
+type: page
 ---
 
 
 
 
 As a long-time **Last.fm** user (about 15 years) and a data nerd, I’ve always been curious about my listening patterns. I used to look at my data by downloading a CSV and creating some chart via **tidyverse** functions. This time I decided to build a Shiny App that visualizes my Last.fm streaming history — and it turned out to be both fun and insightful!
-
 
   <div style="flex: 1; min-width: 250px;">
     <img src="/images/shiny1.jpg" alt="Dancing" style="width: 100%; border-radius: 10px;">
