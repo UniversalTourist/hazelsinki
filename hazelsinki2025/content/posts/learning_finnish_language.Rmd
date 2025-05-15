@@ -1,0 +1,32 @@
+---
+date: "2024-11-11T17:55:28+08:00"
+description: And why it is so special
+showTableOfContents: true
+tags:
+- Learning Languages
+- Personal Development
+title: Learning Finnish Language, A Journey with Ups and Downs
+draft: true
+type: post
+weight: 25
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I live in Helsinki since November 2018 and just like everyone I met around that time told me *"I moved to Finland at the worst time of the year"*. Well, they were right. As a person who has southern background it wasn't very easy to adapt. Although I had an advantage when it comes to learning the language of this cold cold lands!
+
+## Learn by Talking without Saying too Much
+When I decided to learn the language I asked 2 of my Turkish friends to join me for an online course once a week for an hour. We knew that it wasn't gonna be enough but we gotta start from somewhere. And we did! 
+
+
+<div style="display: flex; gap: 10px; justify-content: space-around; align-items: left;">
+  <img src="/images/aikuiset.png" width="95%">
+</div>
+
+[Roosa Kuusisto](https://www.linkedin.com/in/roosa-kuusisto-b9a325138/) was our beloved teacher. Her method was not something we used to but it worked. We didn't start learning grammar at first. We had different topics every week, that helped us build vocabulary. We were reading out the words and sentences out loud. Slowly slowly we started asking *"How can I say 'I like dancing' or 'I don't like winter'?"* . Then we started learning structures. The more spice we wanted the more vocabulary we learned. 
+
+
+
+Can I write this post in Finnish? Well maybe not with exact way but I can definetly give you the message! 😎

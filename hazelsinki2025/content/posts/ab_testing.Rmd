@@ -1,0 +1,29 @@
+---
+date: "2024-12-09T17:55:28+08:00"
+description: Do it it when you need it
+showTableOfContents: true
+tags:
+- Mobile Games
+- Game Analytics
+- Player Behaviour
+title: A/B Testing in Mobile Games
+draft: true
+type: post
+weight: 25
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+"If you're doing A/B testing, it means you don't know your product!" a supervisor once told me. This is very bold to claim but also assumes they fully understand changes in the market and among the audience. Would that be really possible? Would it be really safe to rollout the changes by experience (maybe even only with gut feeling)? 
+
+Games are living products in my opinion. Player behaviour changes, mobile market changes. Testing is how we learn before rolling something out to thousands even millions.
+
+## What kind of 
+
+
+
+
+
+
