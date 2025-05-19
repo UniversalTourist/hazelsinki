@@ -6,7 +6,6 @@ tags:
 - Learning Languages
 - Personal Development
 title: "Learning Finnish Language: A Journey with Ups and Downs"
-draft: true
 type: post
 weight: 25
 ---
