@@ -1,6 +1,6 @@
 ---
 date: "2024-12-09T17:55:28+08:00"
-description: Do it it when you need it
+description: Do it when you need it
 showTableOfContents: true
 tags:
 - Mobile Games
@@ -18,8 +18,9 @@ weight: 25
 
 Games are living products in my opinion. Player behaviour changes, mobile market changes. Testing is how we learn before rolling something out to thousands even millions.
 
-## What kind of 
+## What are the areas teams can run tests?
 
+Mobile games are built on frequent content updates and player engagement loops. A/B testing is an integral part of game iteration, not just a marketing tool. There are very important things to test in games such as Onboarding flows (FTUE tweaks), Difficulty balancing, Offers, UI layouts or button placements etc. 
 
 
 
