@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 "If you're doing A/B testing, it means you don't know your product!" a supervisor once told me. This is very bold to claim but also assumes they fully understand changes in the market and among the audience. Would that be really possible? Would it be really safe to rollout the changes by experience (maybe even only with gut feeling)? 
 
-Games are living products in my opinion. Player behaviour changes, mobile market changes. Testing is how we learn before rolling something out to thousands even millions.
+Games are living products in my opinion. Player behaviour changes, mobile market changes, etc. Testing is how we learn before rolling something out to thousands even millions.
 
 ## What are the areas teams can run tests?
 
