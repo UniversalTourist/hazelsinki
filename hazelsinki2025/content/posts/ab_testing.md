@@ -7,7 +7,6 @@ tags:
 - Game Analytics
 - Player Behaviour
 title: A/B Testing in Mobile Games
-draft: true
 type: post
 weight: 25
 ---
