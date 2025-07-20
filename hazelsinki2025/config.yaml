@@ -41,7 +41,7 @@ params:
       gtag('js', new Date());
       gtag('config', 'G-H2C3RB26V1');
     </script>
-  description: Data Analyst by day, Lindy Hop dancer by night
+  description: Data Analyst by day, Lindy Hop Dancer by night
   footer:
   metaKeywords:
   showBackToTopButton: yes
