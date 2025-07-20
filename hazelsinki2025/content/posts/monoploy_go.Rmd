@@ -6,7 +6,7 @@ tags:
 - Mobile Games
 - Game Analytics
 - Player Behaviour
-title: Falling Love in Nostalgia with Monopoly Go
+title: Falling in Love with Nostalgia in Monopoly Go
 type: post
 weight: 25
 ---
