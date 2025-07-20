@@ -5,7 +5,7 @@ showTableOfContents: true
 tags:
 - Mobile Games
 - Player Behaviour
-title: Star Merge 
+title: "Star Merge: A Mix of Genres That Keep You Play" 
 draft: true
 type: post
 weight: 25
@@ -14,5 +14,7 @@ weight: 25
 
 
 
-Star Merge game post
+I started playing Star Merge while I was interviewing with Plummy Games. Even though we didn’t continue the process, I actually liked the game a lot and I’m still playing it regularly.
+
+
 

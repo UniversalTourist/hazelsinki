@@ -33,6 +33,7 @@ params:
       url: https://www.instagram.com/hazelsinki/
     - name: email
       url: mailto:hazzelkavili@gmail.com
+  googleAnalytics: G-H2C3RB26V1    
 menu:
   main:
     - name: Home
