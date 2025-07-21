@@ -48,8 +48,6 @@ params:
   socialIcons:
     - name: linkedin
       url: https://www.linkedin.com/in/hazzelkavili/
-    - name: instagram
-      url: https://www.instagram.com/hazelsinki/
     - name: email
       url: mailto:hazzelkavili@gmail.com
 menu:

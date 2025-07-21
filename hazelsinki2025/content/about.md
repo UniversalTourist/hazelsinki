@@ -57,13 +57,6 @@ Hazel
      style="text-decoration: none;">
     <i data-feather="linkedin"></i>
   </a>
-  
-  <a href="https://www.instagram.com/hazelsinki/" 
-     class="social-icon" 
-     aria-label="instagram" 
-     style="text-decoration: none;">
-    <i data-feather="instagram"></i>
-  </a>
 
   <a href="mailto:hazzelkavili@gmail.com" 
      class="social-icon" 
