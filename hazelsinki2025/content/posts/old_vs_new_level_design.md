@@ -1,43 +1,59 @@
 ---
 date: "2025-07-08T17:55:28+08:00"
-description: Well,I have time for all  as long as my phone's battery is full! 
+description: I have time for old and new puzzle games as long as my phone's battery is full! 
 showTableOfContents: true
 tags:
 - Mobile Games
 - Game Design
-title: "From Connecting Dots to Saving the King: Old & New Puzzle Favourites" 
-draft: true
+title: "From Connecting Dots to Helping the King" 
+draft: false
 type: post
 weight: 25
 ---
 
-I have been playing puzzle games long before I joined the industry. During my career I kept playing all sorts of puzzle games to be able to compare what is out there besides the games I have been part of. 
+I wanted to write this post not from the perspective of an analyst, but as a long time puzzle games player. I've been playing puzzle games even before I joined the industry and throughout my career I kept playing all sorts of puzzle games to be able to compare what is out there besides the games I have been part of. Even today, I keep playing new and old favorites, partly out of curiosity and partly because I still love the genre. 
 
 ## Connecting Dots, Challenging Friends
 
-I used to have an iPod, the one look like an iPhone and it had everything (except it wasn't a phone 😅). Two Dots was one of the games we (me and my collegue) used to play on that device and we challenge each other on every level. During that time we were admiring how simple was the design. 
-
+I used to have an iPod, the one look like an iPhone and it had everything (except it wasn't a phone 😅). Two Dots was one of the games we (me and my colleague) used to play on that device and we challenge each other on every level. During that time we were admiring how simple the design was. There were no distractions, just colored dots and a perfect soundtrack.
 
 I have started playing the game couple months back to remind myself what was really attracted me to the game. Of course it has changed a lot with various additions to the main game but there were still pieces of what I enjoyed:
 
 - Main game board still *as clean as possible*
-- There is more live-ops going on with the events (although missing daily quests) 
-- Learning curve of the game doesn't feel much off
+- Learning curve of the game doesn't feel too off
+- The balance between luck and skill is still there 😎 
 
-Currently I feel like the game has been transformed to a bit more "caotic" state with the changes in years: 
+<div style="display: flex; gap: 10px; justify-content: space-around; align-items: center;">
+  <img src="/images/td1.PNG" width="45%">
+  <img src="/images/td2.PNG" width="45%">
+</div>
 
-- crazy amount of pop-ups I need to clear for 30 seconds before I start the game
-- amount of ad places and ads shown 
-- new game modes doesn't really feels as satisfying 
+Currently I feel like the game has been transformed to a bit more "chaotic" state with the changes in years: 
+
+- Crazy amount of pop-ups I need to clear for 30 seconds before I start the game
+- Amount of ad places and ads shown 
+- New game modes doesn't really feel as satisfying as the actual game
 
 
 ## Everything is Glamorous and Faster than Ever
 
 Maybe you haven't played Two Dots but if you're in the industry you definitely played Royal Match. It is has been installed over 300M since it's launch in 2021. Everyone talks about the game one way or the other but I wanted to mention as comparison to games that has been around for more than 10 years. 
 
-Royal Match can take ones eyes with all bright colours, snappy animations and smooth 
+Royal Match can take your eyes with all bright colours, snappy animations, tons of live events, very well balanced difficulty that can take you play longer hours than expected and very generous welcome back gifts even you are gone for couple days. 
+
+<div style="display: flex; gap: 10px; justify-content: space-around; align-items: center;">
+  <img src="/images/rm1.PNG" width="45%">
+  <img src="/images/rm2.PNG" width="45%">
+  <img src="/images/rm3.PNG" width="45%">
+</div>
+
+The dopamine rush you need is definetely right there! 
 
 
+## Latetly It is More Than Just Matching Blocks
 
+Over the years, many puzzle games shifted from minimalist, almost zen-like experiences to complex ecosystems packed with live events, social features, and constant rewards.
 
+I love the genre and I can see couple trade-offs. We sure get richer content, better visuals, and more reasons to come back although sometimes, it costs the simplicity that made early puzzle games so timeless.
 
+Yet whether it’s connecting dots in Two Dots or saving the King in Royal Match, I still find a spot for both on my phone. After all, there’s room for quiet moments and flashy dopamine hits — as long as the 🔋 holds up.😃 
