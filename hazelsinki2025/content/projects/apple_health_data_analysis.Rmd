@@ -27,17 +27,17 @@ Lindy Hop is a very energetic dance type (especially Charleston😄) and it show
 
 When I look at *ActiveEnergyBurned* metric:
 
-**-Before/After:** Near-zero — as expected, little to no energy burned in the 15 min before/after workouts.
+**- Before/After:** Near-zero — as expected, little to no energy burned in the 15 min before/after workouts.
 
-**-During:** Values mostly between 250–400 kcal, with some outliers >600 kcal — very reasonable for a Cardio Dance workout.
+**- During:** Values mostly between 250–400 kcal, with some outliers >600 kcal — very reasonable for a Cardio Dance workout.
 
 And for *HeartRate* data there is clear separation:
 
 **- Before:** Centered around ~90 bpm
 
-**-During:** Median rises to ~115–125 bpm
+**- During:** Median rises to ~115–125 bpm
 
-**-After:** Slightly elevated but returning toward baseline
+**- After:** Slightly elevated but returning toward baseline
 
 ## Dancing vs. Walking
 
