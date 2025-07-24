@@ -18,13 +18,15 @@ I love turning messy data into clear stories by using **SQL**, **R**, and **Shin
     <img src="/images/lindy_hop_dancing.jpg" alt="Dancing" style="width: 100%; border-radius: 10px;">
   </div>
 
-  <div style="flex: 2; min-width: 250px;">
-    <h2></h2>
-    <p>Outside the data world, I wear a few other hats:<br>
-   - I teach Lindy Hop at <a href="https://blackpepperswing.com" target="_blank">Black Pepper Swing</a> in Helsinki. I care about rhythm, joy, and connection.<br>
-   - I keep moving with body training to stay grounded and strong.<br>
-   - And when things slow down, I strum a little ukulele. It helps me recharge and stay playful.</p>
-  </div>
+ <div style="flex: 2; min-width: 250px;">
+  <h2></h2>
+  <p>Outside the data world, I wear a few other hats:</p>
+  <ul>
+    <li>I teach Lindy Hop at <a href="https://blackpepperswing.com" target="_blank">Black Pepper Swing</a> in Helsinki. I care about rhythm, joy, and connection.</li>
+    <li>I keep moving with body training to stay grounded and strong.</li>
+    <li>And when things slow down, I strum a little ukulele. It helps me recharge and stay playful.</li>
+  </ul>
+</div>
 
 </div>
 
