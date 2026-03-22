@@ -11,18 +11,18 @@ type: post
 weight: 25
 ---
 
-There are many tools available now that can help the teams to make products ready faster than ever. Although the key metrics teams need to focus are still the same. AI can help us generate content, personalize experiences, and even predict user behavior. But if teams don’t follow the **key metrics** — DAU, retention, ARPU, session lengths, conversion funnels — it is basically flying blind.
+There are many tools available now that can help the teams to make products ready faster than ever. Although the key metrics teams need to focus are still the same. AI can help us generate content, personalize experiences, and even predict user behavior. But if teams don’t follow the **key metrics** such as  DAU, Retention, ARPU, session lengths, conversion funnels, it is basically flying blind.
 
-Knowing what’s happening in the game — and more importantly, *why* — will always be relevant.
+Knowing what’s happening in the game and more importantly, *why* will always be relevant.
 
 This is **Game Analytics 101**. And it’s still your foundation.
 
 ## What Metrics Still Matter (And Always Will)
 Fundamentals will still be important. Game's growth will be very much followed by improving these metrics. 
 
-- DAU/WAU/MAU
+- DAU, WAU, MAU
 - Retention (D1/D7/D30)
-- ARPU / ARPPU / LTV
+- ARPU, ARPPU, LTV
 - Session length & frequency
 - Conversion funnels (e.g., FTUE to first spend)
 - Event-level behavior
@@ -72,9 +72,9 @@ To estimate Lifetime Value (LTV), a common approach is to multiply a player’s 
   <img src="/images/day7_ret_arpu.png" width="75%">
 </div>
 
-First, we approximate player lifetime by calculating the area under the retention curve — effectively summing daily retention rates.
+First, we approximate player lifetime by calculating the area under the retention curve, effectively summing daily retention rates.
 Then, we average the daily ARPDAU over the year to stabilize short-term fluctuations.
-Applying this method gives an LTV of approximately $0.41 — slightly higher than the simple cumulative ARPU, thanks to smoothing across daily variations. This small difference emphasizes how understanding the relationship between engagement and monetization is key when forecasting long-term game performance.
+Applying this method gives an LTV of approximately $0.41, slightly higher than the simple cumulative ARPU, thanks to smoothing across daily variations. This small difference emphasizes how understanding the relationship between engagement and monetization is key when forecasting long-term game performance.
 
 3- How can we assess if the LTV has gone down from January to December based on the data we have?
 
@@ -87,8 +87,8 @@ The charts above shows that growth in cumulative ARPU begins to slow down after 
 To dig deeper, we can analyze Day 7 ARPU by monthly install cohorts — offering a clearer view of whether player quality changed over time. Looking at the plot, it’s evident that players who installed in January had the highest Day 7 ARPU, and from there, a downward trend begins. Month by month, the Day 7 ARPU declines, suggesting that players acquired later in the year were less valuable on average.
 
 ## Closing Thoughts
+
 The practice above will be relevant in terms of understanding the business and how your game is doing. 
 I believe the real power comes from combination of AI + Analytics. 
-AI is exciting, but your game’s success still depends on knowing what your players are doing — and why.
-Game analytics is your lens, not just your dashboard.
+AI is exciting, but your game’s success still depends on knowing what your players are doing, and why.
 

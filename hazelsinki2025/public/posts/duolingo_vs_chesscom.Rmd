@@ -1,0 +1,71 @@
+---
+date: "2025-07-19T17:55:28+08:00"
+description: Which one is more inviting and fitting my daily routine 
+showTableOfContents: true
+tags:
+- Mobile Games
+- Player Behaviour
+- Game Design
+title: "Not Just a Streak: My Routine with Duolingo vs Chess.com" 
+draft: false
+type: post
+weight: 25
+---
+
+Okay, the title says **not just a streak** but I would like to brag a tad about my **815 days** of Duolingo streak as of today! Practising Finnish language over the past years helped me to reach that number but today I want to write about my new habit and how Duolingo and Chess.com fit into my daily routine.
+
+
+## Teaching Style
+
+It is hard to claim that Duolingo can teach a language perfectly although it *does* teach things about the language you are practising. I learned a lot of new words when practising Finnish and they stick with me! 
+
+That is why I wanted to try **Chess** since I was in some kind of test group (yes I know I was in a test group!) of the new feature. Duolingo has it's bite-sized and repetitive lessons which helps me to remember things faster. Fun characters and the playful tone (sometimes with familiar texts from movies and tv shows) makes learning very casual.
+
+Although Chess.com app feels more traditional with all (the slightly long) text based explanations and short videos. It feels like focusing more on the skill mastery and strong tactics.
+
+<div style="display: flex; gap: 10px; justify-content: space-around; align-items: center;">
+  <img src="/images/duo5.PNG" width="45%">
+  <img src="/images/duo6.PNG" width="45%">
+  <img src="/images/cc2.PNG" width="45%">
+  <img src="/images/cc3.PNG" width="45%">
+</div>
+
+
+## App and UX Design
+
+Duolingo has bright colours and silly sentences told by *friendly* faces. It has many elements that makes users feel like it is very **casual**. Whereas Chess.com has darker colour palette and more serious tone.
+
+This is mostly comparing playful vs. serious design, or casual vs. competitive look.
+
+<div style="display: flex; gap: 10px; justify-content: space-around; align-items: center;">
+  <img src="/images/duo1.PNG" width="45%">
+  <img src="/images/duo2.PNG" width="45%">
+</div>
+
+## Motivation & Streak Pressure & a Hint of Fear
+
+Both apps operate very differently when it comes to make you come back to them. While Duolingo has streak, XP, leagues, daily quests Chess.com has daily puzzles, puzzle ratings.
+
+Everyone who used Duolingo is also very much aware of the terror of losing the streak, the power of push notifications. 
+
+Which one is better to have in daily routine: pressure vs. positive push. Although my daily streaks tells me that I do work well under pressure 😛😛
+
+## Finding Place in the Market
+
+I think each one fits into "mobile learning", only the ways and the audience is different I believe. 
+Chess.com built a full chess ecosystem. They have games, lessons, puzzles, tournaments and community. However Duolingo started as language learning but extended into math, music and now chess. I would be very interested to see how often a regular language learner is trying out other branches Duolingo offers. 
+
+And let's not forget, there was a time they had a collaboration:
+
+<div style="display: flex; gap: 10px; justify-content: space-around; align-items: center;">
+  <img src="/images/duo3.PNG" width="55%">
+</div>
+
+
+## Wrapping Up (with a Nerdy Note) 
+
+As a data analyst, I can’t help but think what metrics they are designing for: DAU, retention, session length, improving average streak days. As of 2023 there is about 20 million of chess games are played daily in Chess.com and in my opinion Duolingo is making playing chess even more accessible and more beginner friendly. 
+
+In the end, both Duolingo and Chess.com sneak into my daily routine in surprisingly similar ways: playful challenges, annoying reminders, and just enough fear of losing that precious streak.
+
+Oh well, I am not 100% positive that Duolingo will teach me to beat Chess.com bots but it keeps my streak alive! 😅😃
