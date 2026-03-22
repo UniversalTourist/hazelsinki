@@ -25,6 +25,7 @@ I was very much afraid of working with weights. I remember in the first days the
 ## Discovering Strength Training
 
 Over time, the training program expanded to include more structured strength exercises such as deadlifts. At first this felt like a big milestone. Deadlifting was exactly the kind of movement I previously believed would be dangerous for my back.
+
 Instead, learning the correct technique and building strength gradually made the movement feel stable and controlled.
 Below is an example of one of my deadlift training sessions.
 
