@@ -7,7 +7,6 @@ tags:
 - Training
 - Lindy Hop 
 title: "Learning to Lift: Strength Training After Injury" 
-draft: true
 type: post
 weight: 25
 ---
