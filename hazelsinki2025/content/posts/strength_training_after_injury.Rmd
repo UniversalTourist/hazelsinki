@@ -29,7 +29,9 @@ Over time, the training program expanded to include more structured strength exe
 Instead, learning the correct technique and building strength gradually made the movement feel stable and controlled.
 Below is an example of one of my deadlift training sessions.
 
-[Video here]
+```{r echo=FALSE}
+blogdown::shortcode("youtube", "_xYm83xJJlA")
+```
 
 ## How This Changed my Dancing
 
